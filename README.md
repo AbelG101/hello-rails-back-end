@@ -33,11 +33,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 💵 Hello Rails Backend <a name="about-project"></a>
+# Hello Rails Backend <a name="about-project"></a>
 
 **Hello Rails Backend** 
 > This is the backend(API) of an educational project for testing the integration of rails and react. It's mainly built using Ruby on Rails.
-
+> [Link for the frontend](https://github.com/AbelG101/Hello-React-frontend/)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
